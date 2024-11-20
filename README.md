@@ -1,4 +1,4 @@
-# SentimentSeer
+# SentimentSeedr
 
 **SentimentSeer** is a machine learning-powered stock price prediction tool that combines historical price data with sentiment analysis from news sources. Using LSTM (Long Short-Term Memory) neural networks, it forecasts future stock trends by leveraging time-series data and market sentiment.
 
